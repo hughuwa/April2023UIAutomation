@@ -5,7 +5,7 @@ import org.junit.Test;
 import java.util.HashMap;
 import java.util.Map;
 
-public class MapClass {
+public class MapClass2 {
     @Test
     public void mapTest() {
         Map<String, Integer> StudentAge = new HashMap<>();
